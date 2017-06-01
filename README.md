@@ -9,3 +9,5 @@
 # Cabal branch
 
 If you are on the `cabal` branch, just run `cabal build` and viola! It runs!
+
+See examples of using cabal to build [here](http://blog.ezyang.com/2010/06/setting-up-cabal-the-ffi-and-c2hs/)
