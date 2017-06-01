@@ -1,3 +1,4 @@
+{-# LINE 1 "fun.chs" #-}
 {-# LANGUAGE ForeignFunctionInterface #-}
 
 module Main where
