@@ -5,3 +5,7 @@
  run make and the makefile will do it's thing.
 
  You can then run the `funee.exe` after and you should get `3` as output in the console.
+
+# Cabal branch
+
+If you are on the `cabal` branch, just run `cabal build` and viola! It runs!
